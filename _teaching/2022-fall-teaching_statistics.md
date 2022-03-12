@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant: Statistics (Fall, 2022)"
+title: "Fall 2022: Teaching Assistant in Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching_statistics

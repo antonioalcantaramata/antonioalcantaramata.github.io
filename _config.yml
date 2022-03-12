@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Antonio Alcántara Mata"
   avatar           : "profile.png"
-  bio              : "Predoctoral Researcher @ UC3M"
+  bio              : "Predoctoral Researcher"
   location         : "Madrid, Spain"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Universidad Carlos III de Madrid"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

@@ -11,6 +11,6 @@ author_profile: true
 
 ## Working papers
 
-1. Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Deep Neural Networks for Quantile Estimation of Renewable Regional Energy Production"
-2. Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Direct estimation of prediction intervals for solar and wind regional energy forecasting with deep neural networks"
-3. Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Pareto Optimal Prediction Intervals with Hypernetworks"
+ * Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Deep Neural Networks for Quantile Estimation of Renewable Regional Energy Production"
+ * Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Direct estimation of prediction intervals for solar and wind regional energy forecasting with deep neural networks"
+ * Antonio Alcántara, Inés M. Galván and Ricardo Aler. "Pareto Optimal Prediction Intervals with Hypernetworks"

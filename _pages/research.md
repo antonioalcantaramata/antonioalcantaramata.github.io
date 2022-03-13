@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Publications
+## Publications
 
-# Working papers
+## Working papers

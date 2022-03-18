@@ -11,9 +11,9 @@ title                    : "Antonio Alcántara Mata"
 title_separator          : "-"
 name                     : &name "Antonio Alcántara Mata"
 description              : &description "Predoctoral Researcher"
-url                      : https://antonioalcantara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://antonioalcantaramata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "antonioalcantara.github.io"
+repository               : "antonioalcantaramata.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "antonioam31"
+  github           : "antonioalcantaramata"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "antonioam31"
   vine             :
   weibo            :
   xing             :

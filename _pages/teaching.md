@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-* **2021/2022:** Statistics (Bachelor's in Electrical Engineering, Spanish, Spring Term). Universidad Carlos III de Madrid, Leganés, Spain.
+* **Spring 2022:** Statistics (Bachelor's in Electrical Engineering, Spanish). Universidad Carlos III de Madrid, Leganés, Spain. Teaching Survey: 4.38/5

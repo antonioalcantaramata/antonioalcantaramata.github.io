@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV attached [here](https://github.com/antonioam31/antonioam31.github.io/raw/master/files/CV_acad-2.pdf).
+You can find my CV attached [here](https://github.com/antonioam31/antonioam31.github.io/raw/master/files/CV_acad-2.pdf). [Updated March 12, 2022]

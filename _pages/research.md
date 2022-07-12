@@ -16,4 +16,5 @@ author_profile: true
 
  * Alcántara, A., Galván, I.M., & Aler, R. (2021). Pareto Optimal Prediction Intervals with Hypernetworks. preprint.
  * Alcántara, A., & Ruiz, C. (2022). [Optimal day-ahead offering strategy for large producers based on market price response learning.](https://arxiv.org/abs/2204.11672) arXiv preprint arXiv:2204.11672.
+ * Alcántara, A., & Ruiz, C. (2022). [On data-driven chance constraint learning for mixed-integer optimization problems.](https://arxiv.org/abs/2207.03844) arXiv preprint arXiv:2207.03844.
 

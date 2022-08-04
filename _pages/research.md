@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 
-1. Alcántara, A., Galván, I.M., & Aler, R. (2022). [Deep Neural Networks for Quantile Estimation of Renewable Regional Energy Production.](https://doi.org/10.1007/s10489-022-03958-7) Applied Intelligence. https://doi.org/10.1007/s10489-022-03958-7 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg" width="15" height="15">
+1. Alcántara, A., Galván, I.M., & Aler, R. (2022). [Deep Neural Networks for Quantile Estimation of Renewable Regional Energy Production.](https://doi.org/10.1007/s10489-022-03958-7) Applied Intelligence. https://doi.org/10.1007/s10489-022-03958-7 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg" width="15" height="15">](https://github.com/antonioalcantaramata/antonioalcantaramata.github.io/raw/master/files/papers/dnn-quantile.pdf)
 2. Alcántara, A., Galván, I.M., & Aler, R. (2022). [Direct Estimation of Prediction Intervals for Solar and Wind Regional Energy Forecasting with Deep Neural Networks.](https://doi.org/10.1016/j.engappai.2022.105128) Engineering Applications of Artificial Intelligence, 114. https://doi.org/10.1016/j.engappai.2022.105128
 
 ## Working papers

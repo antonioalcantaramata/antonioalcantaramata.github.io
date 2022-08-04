@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working papers
 
- * Alcántara, A., Galván, I.M., & Aler, R. (2021). Pareto Optimal Prediction Intervals with Hypernetworks. preprint.
+ * Alcántara, A., Galván, I.M., & Aler, R. (2021). Pareto Optimal Prediction Intervals with Hypernetworks. preprint. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github-square.svg" width="14" height="14">](https://github.com/antonioalcantaramata/POPI-HN)
  * Alcántara, A., & Ruiz, C. (2022). [Optimal day-ahead offering strategy for large producers based on market price response learning.](https://arxiv.org/abs/2204.11672) arXiv preprint arXiv:2204.11672.
  * Alcántara, A., & Ruiz, C. (2022). [On data-driven chance constraint learning for mixed-integer optimization problems.](https://arxiv.org/abs/2207.03844) arXiv preprint arXiv:2207.03844.
 

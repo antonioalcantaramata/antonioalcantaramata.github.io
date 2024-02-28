@@ -15,8 +15,13 @@ author_profile: true
 4. Alcántara, A., & Ruiz, C. (2023). On data-driven chance constraint learning for mixed-integer optimization problems. Applied Mathematical Modelling, 121. doi:10.1016/j.apm.2023.04.032 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://doi.org/10.1016/j.apm.2023.04.032) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="15" height="15">](https://github.com/antonioalcantaramata/ccl_tool)
 5. Alcántara, A., & Ruiz, C. (2023). A Neural Network-Based Distributional Constraint Learning Methodology for Mixed-Integer Stochastic Optimization. Expert Systems with Applications, 120895. doi:10.1016/j.eswa.2023.120895 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://doi.org/10.1016/j.eswa.2023.120895) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="15" height="15">](https://github.com/antonioalcantaramata/DistCL)
 
+
 ## Working papers
 
-
  * Alcántara, A., & Ruiz, C. (2022). Optimal day-ahead offering strategy for large producers based on market price response learning. arXiv preprint arXiv:2204.11672. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2204.11672) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="15" height="15">](https://github.com/antonioalcantaramata/opti-genco-offers)
+
+## Work in progress
+
+ * A Quantile Neural Network Framework for Two-stage Stochastic Optimization
+
 

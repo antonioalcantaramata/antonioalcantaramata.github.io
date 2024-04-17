@@ -18,10 +18,10 @@ author_profile: true
 
 ## Working papers
 
- * Alcántara, A., & Ruiz, C. (2022). Optimal day-ahead offering strategy for large producers based on market price response learning. arXiv preprint arXiv:2204.11672. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2204.11672) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="15" height="15">](https://github.com/antonioalcantaramata/opti-genco-offers)
+ * Alcántara, A., & Ruiz, C. (2022). Optimal day-ahead offering strategy for large producers based on market price response learning. arXiv preprint arXiv:2204.11672. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2204.11672)
+ * Alcántara, A., Ruiz, C., & Tsay, C. (2024). A Quantile Neural Network Framework for Two-stage Stochastic Optimization. arXiv preprint arXiv:2403.11707. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2403.11707)
 
 ## Work in progress
 
- * A Quantile Neural Network Framework for Two-stage Stochastic Optimization
 
 

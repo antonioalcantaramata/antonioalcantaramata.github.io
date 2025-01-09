@@ -20,6 +20,7 @@ author_profile: true
 
 ## Working papers
 
+ * Alcántara, A., Diaz-Cachinero, P., Sánchez-González, A., & Ruiz, C. (2024). Leveraging Neural Networks to Optimize Heliostat Field Aiming Strategies in Concentrating Solar Power Tower Plants [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2412.16995)
  * Alcántara, A., Ruiz, C., & Tsay, C. (2024). A Quantile Neural Network Framework for Two-stage Stochastic Optimization. arXiv preprint arXiv:2403.11707. [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="15" height="15">](https://arxiv.org/abs/2403.11707)
 
 ## Work in progress
